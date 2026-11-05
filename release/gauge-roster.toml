@@ -1,0 +1,67 @@
+generated = "2061-11-20"
+
+[[gauge]]
+gauge_id = "TG-104"
+station = "East Weir"
+basin = "Marsh"
+installed_on = "2061-05-20"
+max_offset_mm = 10
+selected_inspected_at = "-"
+selected_offset_mm = "-"
+valid_inspection_count = 0
+result = "UNVERIFIED"
+
+[[gauge]]
+gauge_id = "TG-106"
+station = "Ferry Reach"
+basin = "Marsh"
+installed_on = "2061-06-08"
+max_offset_mm = 9
+selected_inspected_at = "-"
+selected_offset_mm = "-"
+valid_inspection_count = 0
+result = "UNVERIFIED"
+
+[[gauge]]
+gauge_id = "TG-102"
+station = "Canal Mouth"
+basin = "Estuary"
+installed_on = "2061-04-01"
+max_offset_mm = 12
+selected_inspected_at = "2061-11-18T14:30:00Z"
+selected_offset_mm = 3
+valid_inspection_count = 1
+result = "HOLD"
+
+[[gauge]]
+gauge_id = "TG-101"
+station = "North Jetty"
+basin = "Harbor"
+installed_on = "2061-03-12"
+max_offset_mm = 8
+selected_inspected_at = "2061-11-19T09:00:00Z"
+selected_offset_mm = -11
+valid_inspection_count = 2
+result = "RECALIBRATE"
+
+[[gauge]]
+gauge_id = "TG-105"
+station = "Stone Quay"
+basin = "Estuary"
+installed_on = "2061-01-15"
+max_offset_mm = 5
+selected_inspected_at = "2061-11-20T12:00:00Z"
+selected_offset_mm = 4
+valid_inspection_count = 2
+result = "CERTIFIED"
+
+[[gauge]]
+gauge_id = "TG-103"
+station = "Reed Point"
+basin = "Harbor"
+installed_on = "2061-02-28"
+max_offset_mm = 6
+selected_inspected_at = "2061-11-20T17:00:00Z"
+selected_offset_mm = -6
+valid_inspection_count = 1
+result = "CERTIFIED"
