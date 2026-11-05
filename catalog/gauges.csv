@@ -1,0 +1,7 @@
+gauge_id,station,basin,installed_on,max_offset_mm
+TG-101,North Jetty,Harbor,2061-03-12,8
+TG-102,Canal Mouth,Estuary,2061-04-01,12
+TG-103,Reed Point,Harbor,2061-02-28,6
+TG-104,East Weir,Marsh,2061-05-20,10
+TG-105,Stone Quay,Estuary,2061-01-15,5
+TG-106,Ferry Reach,Marsh,2061-06-08,9

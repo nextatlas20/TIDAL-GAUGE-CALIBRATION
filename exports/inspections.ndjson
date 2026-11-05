@@ -1,0 +1,14 @@
+{"format":"tide-inspection-v2"}
+{"gauge_id":"TG-101","inspected_at":"2061-11-19T09:00:00Z","offset_mm":8,"seal_ok":true,"record_no":3}
+{"gauge_id":"TG-101","inspected_at":"2061-11-19T09:00:00Z","offset_mm":-11,"seal_ok":true,"record_no":4}
+{"gauge_id":"TG-102","inspected_at":"2061-11-18T14:30:00Z","offset_mm":3,"seal_ok":false,"record_no":7}
+{"gauge_id":"TG-103","inspected_at":"2061-11-20T17:00:00Z","offset_mm":-6,"seal_ok":true,"record_no":2}
+{"gauge_id":"TG-104","inspected_at":"2061-05-19T23:59:59Z","offset_mm":1,"seal_ok":true,"record_no":1}
+{"gauge_id":"TG-104","inspected_at":"2061-11-20T18:00:00Z","offset_mm":20,"seal_ok":true,"record_no":9}
+{"gauge_id":"TG-105","inspected_at":"2061-11-20T12:00:00Z","offset_mm":-7,"seal_ok":true,"record_no":5}
+{"gauge_id":"TG-105","inspected_at":"2061-11-20T12:00:00Z","offset_mm":4,"seal_ok":true,"record_no":5}
+{"gauge_id":"TG-106","inspected_at":"2061-06-01T08:00:00Z","offset_mm":0,"seal_ok":true,"record_no":1}
+{"gauge_id":"TG-106","inspected_at":"2061-11-20T10:00:00Z","offset_mm":true,"seal_ok":true,"record_no":8}
+{"gauge_id":"TG-999","inspected_at":"2061-11-20T10:00:00Z","offset_mm":2,"seal_ok":true,"record_no":1}
+{"gauge_id":"TG-101","inspected_at":"2061-11-20T11:00:00Z","offset_mm":2,"seal_ok":"yes","record_no":6}
+not json
